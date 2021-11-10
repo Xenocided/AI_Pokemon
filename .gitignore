@@ -119,11 +119,6 @@ dmypy.json
 # Video
 *.mp4
 
-# Images
-*.png
-*.jpg
-*.jpeg
-
 # Dataset
 /dataset
 /test_data
