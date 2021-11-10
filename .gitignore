@@ -112,3 +112,21 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# zip file
+*.zip
+
+# Video
+*.mp4
+
+# Images
+*.png
+*.jpg
+*.jpeg
+
+# Dataset
+/dataset
+/test_data
+
+# Model
+*.hdf5
