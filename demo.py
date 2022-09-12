@@ -31,6 +31,7 @@ if img_file is not None:
 	predictions = model.predict(img)
 	predicted_index = np.argmax(predictions, axis=1)[0]
 	load_result(img_file, predicted_index)
+	
 
 
 
